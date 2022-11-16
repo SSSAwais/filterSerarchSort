@@ -1,0 +1,18 @@
+{
+    "workbench.commandPalette.preserveInput": false,
+    "workbench.layoutControl.type": "both",
+    "workbench.list.defaultFindMode": "filter",
+    "workbench.panel.defaultLocation": "bottom",
+    "workbench.activityBar.visible": true,
+    "workbench.preferredDarkColorTheme": "Default Dark+",
+    "workbench.sideBar.location": "left",
+    "workbench.statusBar.visible": true,
+    "workbench.editor.autoLockGroups": {
+        "default": true,
+        "workbench.editorinputs.searchEditorInput": true,
+        "vscode-interactive-input": true,
+        "interactive": true
+    },
+    "workbench.editor.enablePreviewFromCodeNavigation": false,
+    "window.commandCenter": true
+}
